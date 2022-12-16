@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rahulgowda00&count_private=true&show_icons=true&theme=radical)
 <!--
 **rahulgowda00/rahulgowda00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
